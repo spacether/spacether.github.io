@@ -2387,15 +2387,22 @@
 					font-size: 1.5em;
 				}
 
-		ul.major-icons {
+		p.major-icons {
 			list-style: none;
 			padding-left: 0;
 		}
-			ul.major-icons i {
+			p.major-icons i {
 				display: inline-block;
 				font-size: 4em;
 				margin: 20px;;
 			}
+
+		ul.skills {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+		}
+
 
 		ul.actions {
 			cursor: default;
